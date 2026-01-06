@@ -11,5 +11,11 @@ This repository contains my programming practice and learning records.
 
 --- 
 
+## Research & Learning
+
+2026-01-06: Checked the relation between embroidery and topology in math.
+
+---
+
 ## Engish Learning
 2026-01-06: [English Breaking News] Noted that household waste increased by 25% during the New Year holidays.
