@@ -22,4 +22,7 @@ This repository contains my programming practice and learning records.
 ---
 
 ## Engish Learning
+
+2026-01-07: [English Breaking News] Reducing sugar and low-fiber foods may decrease the risk of depression.
+
 2026-01-06: [English Breaking News] Noted that household waste increased by 25% during the New Year holidays.
