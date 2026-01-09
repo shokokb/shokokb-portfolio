@@ -3,7 +3,9 @@ This repository contains my programming practice and learning records.
 
 ---
 
-2026-01-08: Plus One — Added 1 to a number represented as a list, handling carry in-place with O(n) time and O(1) space.
+2026-01-09: Plus One — Added 1 to a number represented as a list, handling carry in-place with O(n) time and O(1) space.
+
+2026-01-08: Search Insert Position — Solved using binary search to find the insert position efficiently (O(log n) time, O(1) space).
 
 2026-01-07: Move Zeroes — Improved to an O(n) in-place solution using a simple pointer to overwrite elements.
 
