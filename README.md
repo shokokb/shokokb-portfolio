@@ -3,6 +3,8 @@ This repository contains my programming practice and learning records.
 
 ---
 
+2026-01-08: Plus One — Added 1 to a number represented as a list, handling carry in-place with O(n) time and O(1) space.
+
 2026-01-07: Move Zeroes — Improved to an O(n) in-place solution using a simple pointer to overwrite elements.
 
 2026-01-06: Move Zeroes — Solved with a simple two-pointer approach; learned why pop() can lead to O(n^2) time.
