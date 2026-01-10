@@ -23,6 +23,8 @@ This repository contains my programming practice and learning records.
 
 ## Research & Learning
 
+2026-10-10: Embroidery transforms the one-dimensional concept of dots into two dimensions.
+
 2026-01-08: The embroidery motif is shown as an approximate design.
 
 2026-01-06: Checked the relation between embroidery and topology in math.
