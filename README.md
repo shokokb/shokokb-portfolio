@@ -3,6 +3,8 @@ This repository contains my programming practice and learning records.
 
 ---
 
+2026-01-12: First Bad Version — Solved using binary search. Confirmed boundary handling and returned the first bad version in O(log n) time and O(1) space.
+
 2026-01-12: Binary Search — Implemented a correct binary search without boundary bugs.
 
 2026-01-10: Binary Search — Solved classic search problem using binary search (O(log n) time, O(1) space).
