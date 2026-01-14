@@ -27,6 +27,8 @@ This repository contains my programming practice and learning records.
 
 ## Research & Learning
 
+2026-01-14: Emailed to a member of Google staffing team
+
 2026-01-10: Embroidery transforms the one-dimensional concept of dots into two dimensions.
 
 2026-01-08: The embroidery motif is shown as an approximate design.
@@ -36,6 +38,8 @@ This repository contains my programming practice and learning records.
 ---
 
 ## Engish Learning
+
+2026-01-14: Chat with Ted
 
 2026-01-08: [English Breaking News] Moss and forensics — Moss is being used in a new way to help solve crimes.
 
