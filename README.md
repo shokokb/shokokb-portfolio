@@ -5,6 +5,10 @@ This repository contains my programming practice and learning records.
 
 2026-01-19: Created my website at https://lab.tomoshibeee.com
 
+2026-01-16: Count Complete Tree Nodes 
+
+2026-01-15: Debugged the solutions using notebooks
+
 2026-01-12: First Bad Version — Solved using binary search. Confirmed boundary handling and returned the first bad version in O(log n) time and O(1) space.
 
 2026-01-12: Binary Search — Implemented a correct binary search without boundary bugs.
